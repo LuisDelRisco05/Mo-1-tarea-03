@@ -1,0 +1,8 @@
+body {
+    background: rgb(7,149,223);
+    background: linear-gradient(180deg, rgba(7,149,223,1) 0%, rgba(14,208,134,1) 62%, rgba(0,255,38,1) 97%);
+}
+
+img {
+    box-shadow: 5px 5px 15px 5px #000000;
+}
